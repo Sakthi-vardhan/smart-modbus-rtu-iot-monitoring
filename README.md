@@ -52,8 +52,7 @@ python_master/
 tests/
    test_sample.py
 docs/
-   architecture.png
-   gui_screenshot.png
+   image 1.png
 config.example.yaml
 requirements.txt
 README.md
