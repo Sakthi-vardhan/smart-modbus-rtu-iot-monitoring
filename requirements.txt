@@ -1,0 +1,7 @@
+pymodbus
+pyserial
+paho-mqtt
+pycryptodome
+matplotlib
+pyyaml
+loguru

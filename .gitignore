@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Logs & local data
+/data/logs/*
+!data/logs/.gitkeep
+*.log
+
+# Configs containing secrets
+config/config.yaml
+
+# OS
+.DS_Store
+Thumbs.db
